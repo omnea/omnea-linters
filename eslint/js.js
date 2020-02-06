@@ -5,6 +5,9 @@ module.exports = {
     "es2015": true,
     "jest": true
   },
+  "parserOptions": {
+    "ecmaVersion": 2017
+  },
   "extends": ["eslint:recommended", "plugin:prettier/recommended"],
   "rules": {
     "no-unused-vars": 0,
