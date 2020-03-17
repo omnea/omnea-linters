@@ -1,6 +1,6 @@
 {
   "name": "@omnea/eslint-config",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "ESLint shareable config for Omnea code style",
   "main": "index.js",
   "files": [
@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/omnea/omnea-linters#readme",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^2.18.0",
+    "@typescript-eslint/eslint-plugin": "^2.24.0",
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.10.0",
     "eslint-plugin-prettier": "^3.1.2",
